@@ -1,2 +1,3 @@
 # Math_Box
-1. calculator.py 계산
+1. 練習
+2. してる途中
